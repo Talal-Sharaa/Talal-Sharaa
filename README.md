@@ -43,5 +43,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=talal-sharaa&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ![github-user-contribution-dark](https://github.com/Talal-Sharaa/Talal-Sharaa/assets/116476361/e34e4b20-1531-43ec-98a6-51e53ff96ac6)
