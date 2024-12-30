@@ -34,7 +34,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=talal-sharaa&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=talal-sharaa&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={TalalSharaa}" alt="LeetCode Badges"/> 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=TalalSharaa" alt="LeetCode Badges"/> 
 
 ## ✍️ Random Dev Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
