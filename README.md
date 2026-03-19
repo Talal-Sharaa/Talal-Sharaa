@@ -1,7 +1,7 @@
 <!-- Typing Animation Header -->
 <p align="center">
   <a href="https://github.com/Talal-Sharaa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=6A98F0&center=true&vCenter=true&multiline=true&repeat=true&width=825&height=140&lines=Hello%2C+Universe!+%F0%9F%91%8B+I'm+Talal+Sharaa;Full-Stack+Developer+%7C+AI+Enthusiast;From+Jordan+%F0%9F%87%AF%F0%9F%87%B4" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=300&color=6A98F0&center=true&vCenter=true&multiline=true&repeat=true&width=825&height=140&lines=Hello%2C+Universe!+%F0%9F%91%8B+I'm+Talal+Sharaa;Full-Stack+Developer+%7C+AI+Enthusiast;From+Jordan+%F0%9F%87%AF%F0%9F%87%B4" alt="Typing SVG" />
   </a>
 </p>
 
