@@ -19,7 +19,7 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 
 - 🔭 **Currently working on:** [Moqat3a](https://github.com/Talal-Sharaa/Moqat3a)
 - 🌱 **Currently learning:** ReactJS & Express.js
-- 💬 **Ask me about:** ReactJS, Node.js, Express.js, C#, SQL Server, Postgresql
+- 💬 **Ask me about:** ReactJS, Node.js, Express.js, C#, SQL Server, Postgresql, Docker, Github Actions
 - 🎨 **What I care about:** Clean code, performance, and bridging AI with real-world applications
 - 🐱 **Fun fact:** I have a son called Hope, he is a cat.
 
@@ -48,6 +48,13 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  </a>
+  
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   </a>
 </p>
 
