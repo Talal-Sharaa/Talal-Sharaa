@@ -18,8 +18,8 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 ---
 
 - 🔭 **Currently working on:** [Moqat3a](https://github.com/Talal-Sharaa/Moqat3a)
-- 🌱 **Currently learning:** ReactJS & PHP
-- 💬 **Ask me about:** ReactJS, Python, C++, C#
+- 🌱 **Currently learning:** ReactJS & Express.js
+- 💬 **Ask me about:** ReactJS, Node.js, Express.js, C#, SQL Server, Postgresql
 - 🎨 **What I care about:** Clean code, performance, and bridging AI with real-world applications
 - 🐱 **Fun fact:** I have a son called Hope, he is a cat.
 
@@ -87,81 +87,80 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.99%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 245.1 kB Used in GitHub's Storage 
- > 
+> 📦 245.1 kB Used in GitHub's Storage
+>
 > 🏆 19 Contributions in the Year 2026
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 39 Public Repositories 
- > 
-> 🔑 25 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 39 Public Repositories
+>
+> 🔑 25 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                1040 commits        ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-🌆 Daytime                1994 commits        ████████████░░░░░░░░░░░░░   48.68 % 
-🌃 Evening                931 commits         ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-🌙 Night                  131 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+🌞 Morning                1040 commits        ██████░░░░░░░░░░░░░░░░░░░   25.39 %
+🌆 Daytime                1994 commits        ████████████░░░░░░░░░░░░░   48.68 %
+🌃 Evening                931 commits         ██████░░░░░░░░░░░░░░░░░░░   22.73 %
+🌙 Night                  131 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday                   813 commits         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Tuesday                  696 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Wednesday                971 commits         ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-Thursday                 631 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Friday                   170 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Saturday                 238 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Sunday                   577 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Monday                   813 commits         █████░░░░░░░░░░░░░░░░░░░░   19.85 %
+Tuesday                  696 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 %
+Wednesday                971 commits         ██████░░░░░░░░░░░░░░░░░░░   23.71 %
+Thursday                 631 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+Friday                   170 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Saturday                 238 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+Sunday                   577 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Amman
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               17 repos            ████████░░░░░░░░░░░░░░░░░   32.08 % 
-C#                       11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JavaScript               17 repos            ████████░░░░░░░░░░░░░░░░░   32.08 %
+C#                       11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 %
+HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 %
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 %
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
 
+Last Updated on 19/03/2026 11:13:52 UTC
 
- Last Updated on 19/03/2026 11:13:52 UTC
 <!--END_SECTION:waka-->
 
 ## 🏅 LeetCode
@@ -185,6 +184,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Talal-Sharaa&repo=Moqat3a&theme=blueberry&hide_border=true" alt="Moqat3a" />
   </a>
 </p>
+
 ---
 
 ## 🎧 Now Playing
