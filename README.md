@@ -87,6 +87,81 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.99%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 14 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 39 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1040 commits        ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+🌆 Daytime                1989 commits        ████████████░░░░░░░░░░░░░   48.62 % 
+🌃 Evening                931 commits         ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+🌙 Night                  131 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   813 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Tuesday                  696 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Wednesday                971 commits         ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Thursday                 626 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Friday                   170 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Saturday                 238 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Sunday                   577 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Amman
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               17 repos            ████████░░░░░░░░░░░░░░░░░   32.08 % 
+C#                       11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
+
+
+ Last Updated on 19/03/2026 11:03:45 UTC
 <!--END_SECTION:waka-->
 
 ## 🏅 LeetCode
