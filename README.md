@@ -94,9 +94,7 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.99%20million%20lines%20of%20code-blue?style=flat)
 
@@ -139,16 +137,20 @@ Sunday                   577 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 31 mins             ███████████████░░░░░░░░░░   59.19 % 
+YAML                     15 mins             ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+TypeScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  47 mins             ██████████████████████░░░   88.00 % 
+Antigravity              6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Talal-Sharaa             47 mins             ██████████████████████░░░   88.00 % 
+ZagTraderInsightsWebApp  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -168,7 +170,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2026 18:49:53 UTC
+ Last Updated on 20/03/2026 18:48:35 UTC
 <!--END_SECTION:waka-->
 
 ## 🏅 LeetCode
