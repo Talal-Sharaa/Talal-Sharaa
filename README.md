@@ -102,7 +102,7 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 
 **🐱 My GitHub Data** 
 
-> 📦 251.7 kB Used in GitHub's Storage 
+> 📦 251.8 kB Used in GitHub's Storage 
  > 
 > 🏆 39 Contributions in the Year 2026
  > 
@@ -175,7 +175,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2026 18:51:48 UTC
+ Last Updated on 24/04/2026 18:49:49 UTC
 <!--END_SECTION:waka-->
 
 ## 🏅 LeetCode
