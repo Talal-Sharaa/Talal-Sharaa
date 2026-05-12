@@ -94,7 +94,7 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -171,7 +171,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2026 19:14:48 UTC
+ Last Updated on 12/05/2026 19:15:04 UTC
 <!--END_SECTION:waka-->
 
 ## 🏅 LeetCode
