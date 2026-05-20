@@ -94,11 +94,11 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.53%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.56%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -112,54 +112,6 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5547 commits        ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-🌆 Daytime                11099 commits       █████████████░░░░░░░░░░░░   50.20 % 
-🌃 Evening                4560 commits        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-🌙 Night                  904 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   3914 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Tuesday                  3873 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Wednesday                5208 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-Thursday                 3442 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Friday                   1032 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Saturday                 1310 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Sunday                   3331 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Amman
-
-💬 Programming Languages: 
-Markdown                 5 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   39.12 % 
-TypeScript               4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-YAML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-VB.NET                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-
-🔥 Editors: 
-VS Code                  14 hrs 16 mins      █████████████████████████   99.93 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-🐱‍💻 Projects: 
-ZT_AMTP                  10 hrs 4 mins       ██████████████████░░░░░░░   70.53 % 
-Unknown Project          3 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-ZagTrader                42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-ZT_AMTP_GUI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Weather                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-
-💻 Operating System: 
-Windows                  14 hrs 17 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -177,7 +129,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2026 19:19:01 UTC
+ Last Updated on 20/05/2026 19:22:42 UTC
 <!--END_SECTION:waka-->
 
 ## 🏅 LeetCode
