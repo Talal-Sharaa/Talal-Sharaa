@@ -94,11 +94,11 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.77%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.78%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -115,8 +115,8 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5641 commits        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-🌆 Daytime                11176 commits       ████████████░░░░░░░░░░░░░   49.98 % 
+🌞 Morning                5641 commits        ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+🌆 Daytime                11179 commits       ████████████░░░░░░░░░░░░░   49.99 % 
 🌃 Evening                4629 commits        █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
 🌙 Night                  914 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 ```
@@ -124,12 +124,12 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 
 ```text
 Monday                   3914 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Tuesday                  3903 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Wednesday                5310 commits        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Tuesday                  3903 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Wednesday                5310 commits        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
 Thursday                 3506 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
 Friday                   1086 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 Saturday                 1310 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Sunday                   3331 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Sunday                   3334 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 ```
 
 
@@ -176,7 +176,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2026 19:00:40 UTC
+ Last Updated on 14/06/2026 19:00:00 UTC
 <!--END_SECTION:waka-->
 
 ## 🏅 LeetCode
