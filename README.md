@@ -96,11 +96,11 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.13%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.16%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 258.0 kB Used in GitHub's Storage 
+> 📦 258.2 kB Used in GitHub's Storage 
  > 
 > 🏆 115 Contributions in the Year 2026
  > 
@@ -113,21 +113,21 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8591 commits        ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-🌆 Daytime                17687 commits       █████████████░░░░░░░░░░░░   50.68 % 
-🌃 Evening                7136 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+🌞 Morning                8591 commits        ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+🌆 Daytime                17698 commits       █████████████░░░░░░░░░░░░   50.68 % 
+🌃 Evening                7146 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
 🌙 Night                  1486 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   6144 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Tuesday                  6189 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Wednesday                8279 commits        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-Thursday                 5346 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Friday                   1654 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Monday                   6144 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Tuesday                  6190 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Wednesday                8279 commits        ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Thursday                 5355 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Friday                   1665 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 Saturday                 2143 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Sunday                   5145 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Sunday                   5145 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
 ```
 
 
@@ -137,25 +137,25 @@ Sunday                   5145 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-C#                       16 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   31.23 % 
-Markdown                 14 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-TypeScript               7 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-PowerShell               5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Python                   2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+C#                       16 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   34.20 % 
+Markdown                 13 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+TypeScript               7 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+PowerShell               2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Python                   2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 19 mins      █████████████░░░░░░░░░░░░   50.67 % 
-VS Code                  25 hrs 38 mins      ████████████░░░░░░░░░░░░░   49.33 % 
+Claude Code              30 hrs 16 mins      ████████████████░░░░░░░░░   62.09 % 
+VS Code                  18 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   37.91 % 
 
 🐱‍💻 Projects: 
-MDF_Reader_Core          27 hrs 14 mins      █████████████░░░░░░░░░░░░   52.41 % 
-ZagTraderInsightsWebApp  8 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-TabadulHubStressTest     8 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-ZT_AMTP                  3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-ZT_AMTP_Full             1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+MDF_Reader_Core          26 hrs 27 mins      ██████████████░░░░░░░░░░░   54.26 % 
+ZagTraderInsightsWebApp  10 hrs 18 mins      █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+TabadulHubStressTest     5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+ZT_AMTP                  1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+ZagTrader                1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 💻 Operating System: 
-Windows                  51 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  48 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -175,7 +175,7 @@ PowerShell               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 20:01:08 UTC
+ Last Updated on 24/07/2026 20:01:32 UTC
 <!--END_SECTION:waka-->
 
 ## 🏅 LeetCode
