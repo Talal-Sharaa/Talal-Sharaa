@@ -94,17 +94,13 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2022%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-437%20hrs%2032%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.66%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.46%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 261.3 kB Used in GitHub's Storage 
+> 📦 262.2 kB Used in GitHub's Storage 
  > 
 > 🏆 123 Contributions in the Year 2026
  > 
@@ -114,78 +110,6 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
  > 
 > 🔑 28 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                9257 commits        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-🌆 Daytime                18971 commits       █████████████░░░░░░░░░░░░   50.93 % 
-🌃 Evening                7425 commits        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-🌙 Night                  1598 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   6318 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Tuesday                  6563 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Wednesday                9011 commits        ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-Thursday                 6020 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Friday                   1830 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Saturday                 2225 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Sunday                   5284 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Amman
-
-💬 Programming Languages: 
-TypeScript               28 hrs 1 min        ████████████████░░░░░░░░░   65.14 % 
-Markdown                 7 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-C#                       1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-JSON                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Python                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-
-🔥 Editors: 
-Claude Code              36 hrs 16 mins      █████████████████████░░░░   84.36 % 
-VS Code                  6 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-
-🐱‍💻 Projects: 
-ZagTraderInsightsWebApp  36 hrs 26 mins      █████████████████████░░░░   84.73 % 
-MDF                      2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-TabadulHubStressTest     2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-ZagTrader                1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-MDF_Engine_Api           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-
-💻 Operating System: 
-Windows                  43 hrs              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 41 hrs 45 mins (97.09%)
-
-✍️ 113,661 lines written by AI, 112 lines written by hand (99.9% AI-written)
-
-🔤 2,888,687,193 Input Tokens, 5,956,533 Output Tokens
-
-💵 $14487.91 Estimated AI Cost This Week
-
-🧠 36 AI Sessions, 372 AI Prompts
-
-Opus                     119,050 lines       █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📚 Verbose Prompter — average 5,651 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.35% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -203,7 +127,7 @@ PowerShell               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:13:45 UTC
+ Last Updated on 07/08/2026 00:29:24 UTC
 <!--END_SECTION:waka-->
 
 ## 🏅 LeetCode
