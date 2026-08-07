@@ -94,13 +94,17 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%203%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-464%20hrs%2042%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.80%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 262.2 kB Used in GitHub's Storage 
+> 📦 262.4 kB Used in GitHub's Storage 
  > 
 > 🏆 123 Contributions in the Year 2026
  > 
@@ -110,6 +114,76 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
  > 
 > 🔑 28 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                8943 commits        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+🌆 Daytime                18418 commits       █████████████░░░░░░░░░░░░   51.03 % 
+🌃 Evening                7160 commits        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+🌙 Night                  1569 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   6075 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Tuesday                  6354 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Wednesday                8751 commits        ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+Thursday                 5895 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Friday                   1802 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Saturday                 2148 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Sunday                   5065 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Amman
+
+💬 Programming Languages: 
+TypeScript               28 hrs 17 mins      ████████████████░░░░░░░░░   63.57 % 
+Markdown                 7 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+PowerShell               2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Python                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+
+🔥 Editors: 
+Claude Code              37 hrs 5 mins       █████████████████████░░░░   83.34 % 
+VS Code                  7 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+
+🐱‍💻 Projects: 
+ZagTraderInsightsWebApp  36 hrs 31 mins      █████████████████████░░░░   82.08 % 
+TabadulHubStressTest     6 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+ZagTrader                1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+
+💻 Operating System: 
+Windows                  44 hrs 30 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 43 hrs 34 mins (97.91%)
+
+✍️ 78,285 lines written by AI, 175 lines written by hand (99.78% AI-written)
+
+🔤 2,452,047,777 Input Tokens, 5,105,397 Output Tokens
+
+💵 $12282.57 Estimated AI Cost This Week
+
+🧠 48 AI Sessions, 338 AI Prompts
+
+Opus                     83,514 lines        █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.78% of written lines came from AI
+📚 Verbose Prompter — average 6,708 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -127,7 +201,7 @@ PowerShell               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:29:24 UTC
+ Last Updated on 07/08/2026 19:35:00 UTC
 <!--END_SECTION:waka-->
 
 ## 🏅 LeetCode
