@@ -94,9 +94,9 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-483%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-490%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -104,7 +104,7 @@ I'm a full-stack developer from Jordan with a background in AI. I love turning i
 
 **🐱 My GitHub Data** 
 
-> 📦 262.6 kB Used in GitHub's Storage 
+> 📦 262.7 kB Used in GitHub's Storage 
  > 
 > 🏆 123 Contributions in the Year 2026
  > 
@@ -141,49 +141,48 @@ Sunday                   2283 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-TypeScript               12 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   38.62 % 
-PowerShell               6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Markdown                 6 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Python                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-C#                       1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+TypeScript               12 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   37.11 % 
+PowerShell               7 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+Markdown                 6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+C#                       1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Python                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 🔥 Editors: 
-Claude Code              30 hrs 22 mins      ███████████████████████░░   91.10 % 
-VS Code                  2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Claude Code              30 hrs 29 mins      ███████████████████████░░   92.25 % 
+VS Code                  2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 🐱‍💻 Projects: 
-ZagTraderInsightsWebApp  19 hrs 56 mins      ███████████████░░░░░░░░░░   59.81 % 
-TabadulHubStressTest     13 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   39.29 % 
-ZagTrader                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+ZagTraderInsightsWebApp  19 hrs 35 mins      ███████████████░░░░░░░░░░   59.28 % 
+TabadulHubStressTest     13 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   39.56 % 
+ZagTrader                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Windows                  33 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 47 mins (98.33%)
+⏱ AI Coding Time: 32 hrs 23 mins (98.01%)
 
-✍️ 35,241 lines written by AI, 39 lines written by hand (99.89% AI-written)
+✍️ 34,146 lines written by AI, 29 lines written by hand (99.92% AI-written)
 
-🔤 467,327,213 Input Tokens, 2,949,134 Output Tokens
+🔤 144,295,583 Input Tokens, 2,834,129 Output Tokens
 
-💵 $2660.74 Estimated AI Cost This Week
+💵 $1296.63 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 156 AI Prompts
+🧠 28 AI Sessions, 140 AI Prompts
 
-Opus                     35,172 lines        █████████████████████████   99.62 % 
+Opus                     34,669 lines        █████████████████████████   99.62 % 
 Kimi                     133 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📚 Verbose Prompter — average 2,290 characters per prompt
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 1,674 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.09% of changed lines were hand-edited
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -203,7 +202,7 @@ PowerShell               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:41:11 UTC
+ Last Updated on 14/08/2026 19:32:37 UTC
 <!--END_SECTION:waka-->
 
 ## 🏅 LeetCode
