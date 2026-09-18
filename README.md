@@ -185,7 +185,10 @@ The project focuses on making the underlying information easier to search, navig
 
 ## 📚 Currently Reading
 
-> 📖 *Men in the Sun* — Ghassan Kanafani
+
+<!-- GOODREADS-LIST:START -->
+> 📖 **[11/22/63](https://www.goodreads.com/review/show/8955355628?utm_medium=api&utm_source=rss)** — Stephen  King
+<!-- GOODREADS-LIST:END -->
 
 ---
 
