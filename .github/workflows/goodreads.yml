@@ -1,0 +1,78 @@
+name: Update Goodreads
+
+on:
+  schedule:
+    - cron: "17 1,7,13,19 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/goodreads.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: goodreads-readme
+  cancel-in-progress: false
+
+jobs:
+  update-reading:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Initialize Goodreads section
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path("README.md")
+          text = path.read_text(encoding="utf-8")
+
+          start = "<!-- GOODREADS-LIST:START -->"
+          end = "<!-- GOODREADS-LIST:END -->"
+
+          if start not in text or end not in text:
+              pattern = r"(## 📚 Currently Reading\s*\n)(.*?)(\n---)"
+              replacement = rf"\1\n{start}\n{end}\n\3"
+              updated, count = re.subn(pattern, replacement, text, count=1, flags=re.S)
+
+              if count != 1:
+                  raise SystemExit("Could not locate the Currently Reading section in README.md")
+
+              path.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Update currently reading from Goodreads
+        uses: zwacky/goodreads-profile-workflow@21b6a700d82296dbadcc384c10bfc1743425fecc
+        with:
+          goodreads_user_id: "174867676"
+          shelf: "currently-reading"
+          max_books_count: "1"
+          output_only: "true"
+          template: '> 📖 **[$title]($url)** — $author'
+
+      - name: Commit reading update
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No reading changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update currently reading"
+          git pull --rebase origin main
+          git push origin HEAD:main
