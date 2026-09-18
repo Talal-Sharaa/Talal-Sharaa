@@ -52,13 +52,63 @@ jobs:
           PY
 
       - name: Update currently reading from Goodreads
-        uses: zwacky/goodreads-profile-workflow@21b6a700d82296dbadcc384c10bfc1743425fecc
-        with:
-          goodreads_user_id: "174867676"
-          shelf: "currently-reading"
-          max_books_count: "1"
-          output_only: "true"
-          template: '> 📖 **[$title]($url)** — $author'
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from urllib.request import Request, urlopen
+          import xml.etree.ElementTree as ET
+
+          USER_ID = "174867676"
+          SHELF = "currently-reading"
+
+          rss_url = (
+              f"https://www.goodreads.com/review/list_rss/"
+              f"{USER_ID}?shelf={SHELF}"
+          )
+
+          request = Request(
+              rss_url,
+              headers={
+                  "User-Agent": "Talal-Sharaa-GitHub-Profile/1.0",
+                  "Accept": "application/rss+xml, application/xml, text/xml",
+              },
+          )
+
+          with urlopen(request, timeout=30) as response:
+              xml = response.read()
+
+          root = ET.fromstring(xml)
+          item = root.find("./channel/item")
+
+          if item is None:
+              book_line = "> 📖 Nothing currently being read"
+          else:
+              title = (item.findtext("title") or "").strip()
+              author = (item.findtext("author_name") or "").strip()
+              url = (item.findtext("link") or "").strip()
+
+              book_line = f"> 📖 **[{title}]({url})** — {author}"
+
+          path = Path("README.md")
+          text = path.read_text(encoding="utf-8")
+
+          start = "<!-- GOODREADS-LIST:START -->"
+          end = "<!-- GOODREADS-LIST:END -->"
+
+          start_pos = text.index(start) + len(start)
+          end_pos = text.index(end)
+
+          updated = (
+              text[:start_pos]
+              + "\n"
+              + book_line
+              + "\n"
+              + text[end_pos:]
+          )
+
+          path.write_text(updated, encoding="utf-8")
+          PY
 
       - name: Commit reading update
         shell: bash
