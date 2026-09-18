@@ -13,6 +13,11 @@ on:
 permissions:
   contents: write
 
+# Prevent two instances of this workflow from writing to main simultaneously.
+concurrency:
+  group: readme-stats
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -20,6 +25,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+        with:
+          # Required so we can safely rebase onto the latest main before pushing.
+          fetch-depth: 0
 
       - name: Generate GitHub stats
         uses: stats-organization/github-readme-stats-action@v2
@@ -67,7 +75,16 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add profile/*.svg
-          git diff --cached --quiet && exit 0
+
+          if git diff --cached --quiet; then
+            echo "No stats changes to commit."
+            exit 0
+          fi
 
           git commit -m "chore: update README stats"
-          git push
+
+          # main may have advanced while the cards were being generated,
+          # e.g. because WakaTime or another workflow updated the README.
+          git pull --rebase origin main
+
+          git push origin HEAD:main
