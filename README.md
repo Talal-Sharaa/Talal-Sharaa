@@ -192,53 +192,53 @@ Sunday                   100713 commits      ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Markdown                 22 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   32.41 % 
-TypeScript               15 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-Python                   10 hrs 2 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Other                    6 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-PowerShell               4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Markdown                 21 hrs              █████████░░░░░░░░░░░░░░░░   34.12 % 
+TypeScript               11 hrs 22 mins      █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Python                   10 hrs              ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Other                    5 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+PowerShell               4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 
 🔥 Editors: 
-Claude Code              62 hrs 52 mins      ███████████████████████░░   91.28 % 
-VS Code                  5 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Codex Vscode             43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Antigravity Desktop      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Claude Code              55 hrs 52 mins      ███████████████████████░░   90.76 % 
+VS Code                  4 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Codex Vscode             43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Antigravity Desktop      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-ZagTraderInsightsWebApp  57 hrs 23 mins      █████████████████████░░░░   83.30 % 
-Windows11Optimization    2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-FailOverMaestro          2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-SkaFixEngine             1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-FixBridge                1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+ZagTraderInsightsWebApp  50 hrs 3 mins       ████████████████████░░░░░   81.32 % 
+Windows11Optimization    2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+FailOverMaestro          2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+SkaFixEngine             1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+FixBridge                1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 💻 Operating System: 
-Windows                  68 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  61 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 68 hrs 8 mins (98.91%)
+⏱ AI Coding Time: 60 hrs 58 mins (99.04%)
 
-✍️ 86,632 lines written by AI, 83 lines written by hand (99.9% AI-written)
+✍️ 85,033 lines written by AI, 79 lines written by hand (99.91% AI-written)
 
-🔤 35,520,479 Input Tokens, 5,633,744 Output Tokens
+🔤 33,629,284 Input Tokens, 5,269,316 Output Tokens
 
-💵 $1475.54 Estimated AI Cost This Week
+💵 $1387.78 Estimated AI Cost This Week
 
-🧠 146 AI Sessions, 542 AI Prompts
+🧠 144 AI Sessions, 478 AI Prompts
 
-Opus                     87,317 lines        █████████████████████████   99.54 % 
-GPT                      407 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Opus                     85,668 lines        █████████████████████████   99.53 % 
+GPT                      407 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📚 Verbose Prompter — average 5,743 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.11% of changed lines were hand-edited
+🤖 AI-Driven — 99.91% of written lines came from AI
+📚 Verbose Prompter — average 5,826 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -258,7 +258,7 @@ PowerShell               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 22:39:02 UTC
+ Last Updated on 20/09/2026 22:46:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
