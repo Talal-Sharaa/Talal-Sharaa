@@ -145,9 +145,9 @@ The project focuses on making the underlying information easier to search, navig
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-827%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-839%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-841%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -192,51 +192,51 @@ Sunday                   92334 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Markdown                 18 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   36.54 % 
-C#                       10 hrs 46 mins      █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-PowerShell               5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Other                    3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-TypeScript               2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Markdown                 17 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   36.93 % 
+C#                       10 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+PowerShell               3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+TypeScript               2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Other                    2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 🔥 Editors: 
-Claude Code              45 hrs 14 mins      ██████████████████████░░░   89.16 % 
-VS Code                  4 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Codex Vscode             49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Claude Code              42 hrs 38 mins      ███████████████████████░░   90.29 % 
+VS Code                  3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Codex Vscode             49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🐱‍💻 Projects: 
-SkaFixMonitor            24 hrs 37 mins      ████████████░░░░░░░░░░░░░   48.53 % 
-ZagTraderInsightsWebApp  14 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-HousingBankBridge        5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-ApplicationFailoverMonito2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-FailOverMaestro          1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+SkaFixMonitor            24 hrs 37 mins      █████████████░░░░░░░░░░░░   52.16 % 
+ZagTraderInsightsWebApp  14 hrs 15 mins      ████████░░░░░░░░░░░░░░░░░   30.19 % 
+HousingBankBridge        5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+WinAdvisor               1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+ApplicationFailoverMonito57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 💻 Operating System: 
-Windows                  50 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  47 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 hrs 57 mins (96.46%)
+⏱ AI Coding Time: 45 hrs 25 mins (96.2%)
 
-✍️ 75,616 lines written by AI, 372 lines written by hand (99.51% AI-written)
+✍️ 63,779 lines written by AI, 395 lines written by hand (99.38% AI-written)
 
-🔤 23,871,478 Input Tokens, 4,424,527 Output Tokens
+🔤 22,527,811 Input Tokens, 4,095,227 Output Tokens
 
-💵 $1034.02 Estimated AI Cost This Week
+💵 $915.06 Estimated AI Cost This Week
 
-🧠 99 AI Sessions, 218 AI Prompts
+🧠 96 AI Sessions, 213 AI Prompts
 
-Opus                     77,160 lines        █████████████████████████   99.42 % 
-GPT                      451 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Opus                     64,908 lines        █████████████████████████   99.31 % 
+GPT                      451 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.51% of written lines came from AI
-📚 Verbose Prompter — average 6,159 characters per prompt
+🤖 AI-Driven — 99.38% of written lines came from AI
+📚 Verbose Prompter — average 5,761 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.12% of changed lines were hand-edited
+🚀 High AI Trust — 1.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -256,7 +256,7 @@ PowerShell               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 23:32:28 UTC
+ Last Updated on 26/09/2026 23:02:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
