@@ -145,17 +145,17 @@ The project focuses on making the underlying information easier to search, navig
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-842%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-847%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-858%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-863%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-690.88%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-697.42%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 274.0 kB Used in GitHub's Storage 
+> 📦 274.1 kB Used in GitHub's Storage 
  > 
 > 🏆 146 Contributions in the Year 2026
  > 
@@ -168,21 +168,21 @@ The project focuses on making the underlying information easier to search, navig
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                137624 commits      ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-🌆 Daytime                292711 commits      ████████████░░░░░░░░░░░░░   48.84 % 
-🌃 Evening                135064 commits      ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-🌙 Night                  33912 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+🌞 Morning                138941 commits      ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+🌆 Daytime                295431 commits      ████████████░░░░░░░░░░░░░   48.83 % 
+🌃 Evening                136445 commits      ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+🌙 Night                  34238 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   94358 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Tuesday                  105020 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Wednesday                133600 commits      ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Thursday                 78674 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Friday                   48998 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Saturday                 47337 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Sunday                   91324 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Monday                   95284 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Tuesday                  106038 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Wednesday                134828 commits      ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Thursday                 79406 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Friday                   49468 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Saturday                 47801 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Sunday                   92230 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
 ```
 
 
@@ -192,51 +192,52 @@ Sunday                   91324 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Markdown                 16 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   30.97 % 
-TypeScript               10 hrs 59 mins      █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-C#                       10 hrs 45 mins      █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-Other                    3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Text                     2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Markdown                 12 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+TypeScript               10 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+C#                       9 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Other                    3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Text                     2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🔥 Editors: 
-Claude Code              50 hrs 36 mins      ████████████████████████░   96.81 % 
-VS Code                  1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Claude Code              45 hrs 40 mins      ████████████████████████░   96.51 % 
+VS Code                  1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Codex Vscode             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🐱‍💻 Projects: 
-ZagTraderInsightsWebApp  27 hrs 6 mins       █████████████░░░░░░░░░░░░   51.84 % 
-SkaFixMonitor            24 hrs 37 mins      ████████████░░░░░░░░░░░░░   47.11 % 
-HousingBankBridge        25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-SkaFixEngine             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-FixBridge                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+ZagTraderInsightsWebApp  24 hrs 11 mins      █████████████░░░░░░░░░░░░   51.13 % 
+SkaFixMonitor            22 hrs 16 mins      ████████████░░░░░░░░░░░░░   47.07 % 
+HousingBankBridge        25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+IntegrationTeamGit       18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+SkaFixEngine             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  52 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  47 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 hrs 49 mins (99.11%)
+⏱ AI Coding Time: 47 hrs 3 mins (99.44%)
 
-✍️ 67,073 lines written by AI, 146 lines written by hand (99.78% AI-written)
+✍️ 70,871 lines written by AI, 142 lines written by hand (99.8% AI-written)
 
-🔤 23,354,581 Input Tokens, 4,878,500 Output Tokens
+🔤 24,343,109 Input Tokens, 5,369,639 Output Tokens
 
-💵 $1140.20 Estimated AI Cost This Week
+💵 $1124.99 Estimated AI Cost This Week
 
-🧠 73 AI Sessions, 167 AI Prompts
+🧠 80 AI Sessions, 177 AI Prompts
 
-Opus                     69,068 lines        █████████████████████████   100.00 % 
+Opus                     72,617 lines        █████████████████████████   99.57 % 
+GPT                      311 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📚 Verbose Prompter — average 2,295 characters per prompt
+🤖 AI-Driven — 99.8% of written lines came from AI
+📚 Verbose Prompter — average 2,862 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.7% of changed lines were hand-edited
+🚀 High AI Trust — 0.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -256,7 +257,7 @@ PowerShell               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 00:04:02 UTC
+ Last Updated on 01/10/2026 00:21:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
