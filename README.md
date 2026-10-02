@@ -298,9 +298,9 @@ PowerShell               3 repos             █░░░░░░░░░░�
 ## 📚 Currently Reading
 
 
-<!-- GOODREADS-LIST:START -->
-> 📖 **[11/22/63](https://www.goodreads.com/review/show/8955355628?utm_medium=api&utm_source=rss)** — Stephen  King
-<!-- GOODREADS-LIST:END -->
+<!-- FABLE-READING:START -->
+<sub>Fable reading sync awaiting setup.</sub>
+<!-- FABLE-READING:END -->
 
 ---
 
@@ -341,3 +341,4 @@ PowerShell               3 repos             █░░░░░░░░░░�
 <p align="center">
   🐱
 </p>
+

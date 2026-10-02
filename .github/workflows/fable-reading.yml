@@ -1,0 +1,43 @@
+name: Update Fable reading
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fable-reading
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - name: Update reading section
+        env:
+          FABLE_USER_ID: ${{ secrets.FABLE_USER_ID }}
+          FABLE_AUTH_TOKEN: ${{ secrets.FABLE_AUTH_TOKEN }}
+          FABLE_READING_LIST_ID: ${{ vars.FABLE_READING_LIST_ID }}
+        run: python scripts/update_fable_reading.py
+      - name: Commit changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          if git diff --cached --quiet; then
+            echo 'No reading changes.'
+            exit 0
+          fi
+          git commit -m 'chore: update Fable currently reading'
+          git pull --rebase origin main
+          git push origin HEAD:main
