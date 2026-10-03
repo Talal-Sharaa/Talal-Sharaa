@@ -100,7 +100,10 @@ def render(books):
                                       else str(a) for a in authors))
         link = safe_url(book.get('url') or book.get('share_url'))
         title = f'<a href="{html.escape(link, quote=True)}">{title}</a>' if link else title
-        cover = safe_url(book.get('cover_image'))
+        cover = safe_url(book.get('cover_image_small')) or safe_url(book.get('cover_image'))
+        # The origin CDN can label JPEG files as text/plain; use the image CDN.
+        if cover.startswith('https://cdn.fable.co/'):
+            cover = 'https://img.fablecdn.net/images/' + cover[len('https://'):] + '?w=600'
         image = f'<img src="{html.escape(cover, quote=True)}" width="80" alt="Book cover" />' if cover else '📖'
         progress = book.get('reading_progress') or entry.get('reading_progress') or {}
         if not isinstance(progress, dict):
