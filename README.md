@@ -298,9 +298,14 @@ PowerShell               3 repos             █░░░░░░░░░░�
 ## 📚 Currently Reading
 
 
-<!-- GOODREADS-LIST:START -->
-> 📖 **[11/22/63](https://www.goodreads.com/review/show/8955355628?utm_medium=api&utm_source=rss)** — Stephen  King
-<!-- GOODREADS-LIST:END -->
+<!-- FABLE-READING:START -->
+<table>
+<tr><td width="100"><img src="https://cdn.fable.co/covers/9781609804275.jpg" width="80" alt="Book cover" /></td><td><strong><a href="https://fable.co/book/lovestar-by-andri-snaer-magnason-9781609804275">LoveStar</a></strong><br />Andri Snaer Magnason, Victoria Cribb</td></tr>
+<tr><td width="100"><img src="https://cdn.fable.co/covers/9781451627282.jpg" width="80" alt="Book cover" /></td><td><strong><a href="https://fable.co/book/112263-by-stephen-king-9781451627282">11/22/63</a></strong><br />Stephen King</td></tr>
+</table>
+
+<sub>Synced from Fable · up to two current reads</sub>
+<!-- FABLE-READING:END -->
 
 ---
 
@@ -341,3 +346,4 @@ PowerShell               3 repos             █░░░░░░░░░░�
 <p align="center">
   🐱
 </p>
+

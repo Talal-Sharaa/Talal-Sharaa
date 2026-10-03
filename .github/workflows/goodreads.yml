@@ -1,128 +1,14 @@
-name: Update Goodreads
+name: Goodreads updater (retired)
 
+# Fable now owns the Currently Reading section. Keep only a manual no-op.
 on:
-  schedule:
-    - cron: "17 1,7,13,19 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/goodreads.yml"
 
 permissions:
-  contents: write
-
-concurrency:
-  group: goodreads-readme
-  cancel-in-progress: false
+  contents: read
 
 jobs:
-  update-reading:
+  retired:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-        with:
-          fetch-depth: 0
-
-      - name: Initialize Goodreads section
-        shell: bash
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          import re
-
-          path = Path("README.md")
-          text = path.read_text(encoding="utf-8")
-
-          start = "<!-- GOODREADS-LIST:START -->"
-          end = "<!-- GOODREADS-LIST:END -->"
-
-          if start not in text or end not in text:
-              pattern = r"(## 📚 Currently Reading\s*\n)(.*?)(\n---)"
-              replacement = rf"\1\n{start}\n{end}\n\3"
-              updated, count = re.subn(pattern, replacement, text, count=1, flags=re.S)
-
-              if count != 1:
-                  raise SystemExit("Could not locate the Currently Reading section in README.md")
-
-              path.write_text(updated, encoding="utf-8")
-          PY
-
-      - name: Update currently reading from Goodreads
-        shell: bash
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          from urllib.request import Request, urlopen
-          import xml.etree.ElementTree as ET
-
-          USER_ID = "174867676"
-          SHELF = "currently-reading"
-
-          rss_url = (
-              f"https://www.goodreads.com/review/list_rss/"
-              f"{USER_ID}?shelf={SHELF}"
-          )
-
-          request = Request(
-              rss_url,
-              headers={
-                  "User-Agent": "Talal-Sharaa-GitHub-Profile/1.0",
-                  "Accept": "application/rss+xml, application/xml, text/xml",
-              },
-          )
-
-          with urlopen(request, timeout=30) as response:
-              xml = response.read()
-
-          root = ET.fromstring(xml)
-          item = root.find("./channel/item")
-
-          if item is None:
-              book_line = "> 📖 Nothing currently being read"
-          else:
-              title = (item.findtext("title") or "").strip()
-              author = (item.findtext("author_name") or "").strip()
-              url = (item.findtext("link") or "").strip()
-
-              book_line = f"> 📖 **[{title}]({url})** — {author}"
-
-          path = Path("README.md")
-          text = path.read_text(encoding="utf-8")
-
-          start = "<!-- GOODREADS-LIST:START -->"
-          end = "<!-- GOODREADS-LIST:END -->"
-
-          start_pos = text.index(start) + len(start)
-          end_pos = text.index(end)
-
-          updated = (
-              text[:start_pos]
-              + "\n"
-              + book_line
-              + "\n"
-              + text[end_pos:]
-          )
-
-          path.write_text(updated, encoding="utf-8")
-          PY
-
-      - name: Commit reading update
-        shell: bash
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add README.md
-
-          if git diff --cached --quiet; then
-            echo "No reading changes to commit."
-            exit 0
-          fi
-
-          git commit -m "chore: update currently reading"
-          git pull --rebase origin main
-          git push origin HEAD:main
+      - run: echo 'The reading section is now managed by fable-reading.yml.'
