@@ -24,10 +24,6 @@ jobs:
         with:
           python-version: '3.13'
       - name: Update reading section
-        env:
-          FABLE_USER_ID: ${{ secrets.FABLE_USER_ID }}
-          FABLE_AUTH_TOKEN: ${{ secrets.FABLE_AUTH_TOKEN }}
-          FABLE_READING_LIST_ID: ${{ vars.FABLE_READING_LIST_ID }}
         run: python scripts/update_fable_reading.py
       - name: Commit changes
         run: |

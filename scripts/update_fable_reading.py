@@ -31,7 +31,7 @@ def api_url(url):
     return url
 
 
-def fetch_items(url, token):
+def fetch_items(url):
     items, seen = [], set()
     opener = build_opener(NoRedirect())
     while url:
@@ -39,15 +39,14 @@ def fetch_items(url, token):
         if url in seen or len(seen) >= 100:
             raise SyncError('Invalid pagination; README preserved.')
         seen.add(url)
-        request = Request(url, headers={'Authorization': 'JWT ' + token,
-                          'Accept': 'application/json', 'Origin': 'https://fable.co',
+        request = Request(url, headers={'Accept': 'application/json', 'Origin': 'https://fable.co',
                           'Referer': 'https://fable.co/'})
         try:
             with opener.open(request, timeout=30) as response:
                 data = json.load(response)
         except HTTPError as exc:
             if exc.code in (401, 403):
-                raise SyncError('Fable authentication failed. Replace FABLE_AUTH_TOKEN in Actions secrets.') from None
+                raise SyncError('Fable denied public access. Check that the reading list is visible to everyone.') from None
             raise SyncError(f'Fable returned HTTP {exc.code}; README preserved.') from None
         except (URLError, TimeoutError, ValueError):
             raise SyncError('Fable request failed; README preserved.') from None
@@ -64,22 +63,6 @@ def fetch_items(url, token):
         items.extend(page)
         url = following
     return items
-
-
-def label(value):
-    return str(value or '').strip().lower().replace('_', ' ').replace('-', ' ')
-
-
-def select_list(lists, override=''):
-    if override:
-        matches = [item for item in lists if str(item.get('id')) == override]
-    else:
-        matches = [item for item in lists if any(label(item.get(key)) in
-                   {'currently reading', 'reading', 'in progress'}
-                   for key in ('name', 'title', 'slug', 'type'))]
-    if len(matches) != 1 or not matches[0].get('id'):
-        raise SyncError('Cannot identify one Currently Reading list. Set the FABLE_READING_LIST_ID repository variable.')
-    return str(matches[0]['id'])
 
 
 def safe_url(value):
@@ -148,21 +131,15 @@ def replace_block(text, content):
 
 
 def main():
-    user = os.getenv('FABLE_USER_ID', '').strip()
-    token = os.getenv('FABLE_AUTH_TOKEN', '').strip()
-    for prefix in ('JWT ', 'Bearer '):
-        if token.startswith(prefix):
-            token = token[len(prefix):]
-    if not user or not token:
-        raise SyncError('Add FABLE_USER_ID and FABLE_AUTH_TOKEN to repository Actions secrets.')
+    user = os.getenv('FABLE_USER_ID', '5ac787b6-0a65-484f-9592-d4197cf3686b').strip()
+    list_id = os.getenv('FABLE_READING_LIST_ID', 'ae21b2aa-4cbd-461e-a6ba-1121a0c5d975').strip()
     try:
         UUID(user)
+        UUID(list_id)
     except ValueError:
-        raise SyncError('FABLE_USER_ID must be the UUID from a Fable API request.') from None
+        raise SyncError('Fable user and list IDs must be UUIDs.') from None
     root = f'{BASE}/api/v2/users/{quote(user, safe="")}/book_lists'
-    lists = fetch_items(root, token)
-    list_id = select_list(lists, os.getenv('FABLE_READING_LIST_ID', '').strip())
-    books = fetch_items(root + '/' + quote(list_id, safe='') + '/books?limit=100&offset=0', token)
+    books = fetch_items(root + '/' + quote(list_id, safe='') + '/books?limit=100&offset=0')
     content = render(books)
     path = Path('README.md')
     original = path.read_text(encoding='utf-8')
