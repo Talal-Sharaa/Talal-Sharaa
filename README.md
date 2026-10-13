@@ -145,9 +145,9 @@ The project focuses on making the underlying information easier to search, navig
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-920%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-921%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -192,52 +192,52 @@ Sunday                   91780 commits       ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-TypeScript               15 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   40.54 % 
-Markdown                 11 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-Python                   4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-C#                       1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+TypeScript               15 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   40.62 % 
+Markdown                 11 hrs 25 mins      ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+Python                   4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+C#                       1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-Claude Code              33 hrs 35 mins      ██████████████████████░░░   86.89 % 
-VS Code                  2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-Codex Vscode             1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-ZCode                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Claude Code              33 hrs 40 mins      ██████████████████████░░░   86.27 % 
+VS Code                  2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Codex Vscode             1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+ZCode                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 Codex Exec               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🐱‍💻 Projects: 
-ZagTraderInsightsWebApp  29 hrs 38 mins      ███████████████████░░░░░░   76.67 % 
-Fihris                   7 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-SkaFixMonitor            1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-JordanBibliophile        26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+ZagTraderInsightsWebApp  29 hrs 43 mins      ███████████████████░░░░░░   76.17 % 
+Fihris                   7 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+SkaFixMonitor            1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+JordanBibliophile        26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Windows                  38 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  39 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 6 mins (98.55%)
+⏱ AI Coding Time: 38 hrs 24 mins (98.42%)
 
-✍️ 59,606 lines written by AI, 3,313 lines written by hand (94.73% AI-written)
+✍️ 59,547 lines written by AI, 3,314 lines written by hand (94.73% AI-written)
 
-🔤 44,023,619 Input Tokens, 6,841,449 Output Tokens
+🔤 45,427,539 Input Tokens, 6,815,059 Output Tokens
 
-💵 $905.35 Estimated AI Cost This Week
+💵 $909.06 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 218 AI Prompts
+🧠 65 AI Sessions, 225 AI Prompts
 
-Opus                     56,208 lines        ███████████████████████░░   91.44 % 
-ZCode                    3,777 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-GPT                      1,484 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Opus                     56,153 lines        ███████████████████████░░   91.43 % 
+ZCode                    3,777 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+GPT                      1,484 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 94.73% of written lines came from AI
-📚 Verbose Prompter — average 6,482 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 6,365 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 9.82% of changed lines were hand-edited
 ```
 
@@ -258,7 +258,7 @@ PowerShell               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 23:42:06 UTC
+ Last Updated on 13/10/2026 02:25:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
