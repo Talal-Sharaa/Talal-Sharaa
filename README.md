@@ -151,38 +151,38 @@ The project focuses on making the underlying information easier to search, navig
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-729.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-739.93%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 279.1 kB Used in GitHub's Storage 
+> 📦 280.3 kB Used in GitHub's Storage 
  > 
-> 🏆 152 Contributions in the Year 2026
+> 🏆 156 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 54 Public Repositories 
+> 📜 55 Public Repositories 
  > 
 > 🔑 30 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                143951 commits      ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-🌆 Daytime                306304 commits      ████████████░░░░░░░░░░░░░   48.79 % 
-🌃 Evening                141834 commits      ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-🌙 Night                  35691 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+🌞 Morning                145583 commits      ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+🌆 Daytime                309879 commits      ████████████░░░░░░░░░░░░░   48.78 % 
+🌃 Evening                143602 commits      ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+🌙 Night                  36144 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   98722 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Tuesday                  109857 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Wednesday                139794 commits      ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Thursday                 82394 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Friday                   51540 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Saturday                 49893 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Sunday                   95580 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Monday                   99870 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Tuesday                  111144 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Wednesday                141414 commits      ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Thursday                 83365 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Friday                   52216 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Saturday                 50520 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Sunday                   96679 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
 ```
 
 
@@ -213,11 +213,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               22 repos            ████████░░░░░░░░░░░░░░░░░   30.14 % 
-TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-C#                       11 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-PowerShell               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+JavaScript               22 repos            ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+HTML                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+PowerShell               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 ```
 
 
@@ -227,7 +227,7 @@ PowerShell               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Talal-Sharaa/Talal-Sharaa/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 00:13:08 UTC
+ Last Updated on 20/10/2026 23:36:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
