@@ -74,8 +74,9 @@ I like reading, exploring useful tools, and debugging problems that initially ma
 <!-- FABLE-READING:START -->
 <table>
 <tr><td width="100"><img src="https://img.fablecdn.net/images/cdn.fable.co/covers/9781609804275.jpg?w=600" width="80" alt="Book cover" /></td><td><strong><a href="https://fable.co/book/lovestar-by-andri-snaer-magnason-9781609804275">LoveStar</a></strong><br />Andri Snaer Magnason, Victoria Cribb</td></tr>
-<tr><td width="100"><img src="https://img.fablecdn.net/images/cdn.fable.co/covers/9781451627282.jpg?w=600" width="80" alt="Book cover" /></td><td><strong><a href="https://fable.co/book/112263-by-stephen-king-9781451627282">11/22/63</a></strong><br />Stephen King</td></tr>
+<tr><td width="100"><img src="https://img.fablecdn.net/images/cdn.fable.co/covers/9781451627282.jpg?w=600" width="80" alt="Book cover" /></td><td><strong><a href="https://fable.co/book/112263-by-stephen-king-9781451627282">11/22/63</a></strong><br />Stephen  King</td></tr>
 </table>
+
 <sub>Synced from Fable · up to two current reads</sub>
 <!-- FABLE-READING:END -->
 
